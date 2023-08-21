@@ -3,6 +3,12 @@
 
 <img width="960" alt="C2" src="https://github.com/homosapian1999/Chat/assets/52074379/b06d88b1-b48d-4df4-b315-37c7940638ed">
 
+# Demo Video
+
+
+https://github.com/homosapian1999/Chat/assets/52074379/40293730-b429-4652-a5d2-0d2edab55246
+
+
 
 # Chat
 The Chat Application is a real-time communication tool that allows users to chat via text messages, have video calls, and share their screens. It is built using the MERN stack, combining MongoDB for the database, Express.js for the server, React.js for the frontend, and Node.js as the runtime environment.
